@@ -1,0 +1,32 @@
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\Personal Finance Data.exe.config
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\Personal Finance Data.exe
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\Personal Finance Data.pdb
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal Finance Data.csproj.AssemblyReference.cache
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.Form1.resources
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.Properties.Resources.resources
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal Finance Data.csproj.GenerateResource.cache
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal Finance Data.csproj.CoreCompileInputs.cache
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal Finance Data.exe
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal Finance Data.pdb
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\Guna.UI.dll
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal.A5A0EB3B.Up2Date
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.Sign_in.resources
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.Sign_up.resources
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.Dashboard.resources
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.Expenses.resources
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.AddIncome.resources
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.Budget.resources
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.SetGoal.resources
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\EntityFramework.dll
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\EntityFramework.xml
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.GoalData.resources
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.About.resources
+C:\Users\escar\Desktop\Raymundo Finals Defense\Personal Finance Data\Personal Finance Data\obj\Debug\Personal_Finance_Data.Contact.resources
